@@ -10,7 +10,7 @@ export const metadata = {
   title: "Oasis Infobyte - Student Internship Program",
   description:
     "Discover internship opportunities at Oasis Infobyte and kickstart your tech career with hands-on experience in web development, data science, and more.",
-    generator: 'v0.dev'
+    creator: 'KVS Manikanta'
 }
 
 export default function RootLayout({
