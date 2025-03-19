@@ -17,7 +17,7 @@ export const chatResponses = {
     "🚀 Projects:\n\n1. Blood Bank Application\n2. College Management System\n3. Telegram Bot for Instagram Profile Pictures\n4. Student Management System\n5. Vaccination Details Saver\n\nWould you like to know more details about any specific project?",
 
   contact:
-    "📱 Contact Information:\n\n- Phone📞: 8121126519\n- Email: mk1343093@gmail.com\n- LinkedIn🔗: \n www.linkedin.com/in/kvsmanikanta\n- github🐈‍⬛: https://github.com/monkey9-Cyber-cat-Spidy\n- Location🌏: Vizianagaram, Andhra Pradesh, 535002",
+    "📱 Contact Information:\n\n- Phone📞: Number\n- Email: mk1343093@gmail.com\n- LinkedIn🔗: \n www.linkedin.com/in/kvsmanikanta\n- github🐈‍⬛: https://github.com/monkey9-Cyber-cat-Spidy\n- Location🌏: Vizianagaram, Andhra Pradesh, 535002",
 
   resume:
     "📄 You can download my resume by clicking the 'Resume' button at the top of this chat window. It contains detailed information about my education, experience, skills, and projects.🙂",
