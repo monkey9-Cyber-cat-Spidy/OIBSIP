@@ -16,7 +16,14 @@ The Oasis Infobyte Landing Page is a fully responsive and interactive webpage de
 - **FAQ Section** to answer common questions.
 - **Application Form** allowing students to apply for internships.
 
+
+![Demo](https://i.ibb.co/LDwv4qj/lv-0-20250319225341.gif)
+
+
+
 ---
+
+
 
 ## 2. Chatbot Portfolio
 
@@ -31,7 +38,12 @@ The Chatbot Portfolio is an interactive and AI-powered chatbot designed to act a
 - **Resume Download** – Users can instantly download my resume with a single click.
 - **Minimalistic UI** – A clean and engaging design ensuring smooth interaction.
 
+![Demo](https://i.ibb.co/Lz2bSH7/lv-0-20250319230627.gif)
+
+
 ---
+
+
 
 ## 3. Temperature Converter
 
@@ -47,6 +59,8 @@ The Temperature Converter is a simple yet effective tool that allows users to co
 - **Error handling** to prevent invalid inputs.
 - **Responsive design** for a seamless experience on all devices.
 - **Dark mode support** for better accessibility.
+
+![Demo](https://i.ibb.co/5gHS6XMR/lv-0-20250319230800.gif)
 
 ---
 
