@@ -2,7 +2,7 @@
 
 # Level 1 Projects
 
-## 1. Oasis Infobyte Landing Page
+## Task 1. Oasis Infobyte Landing Page
 
 ### 🌐 Live Demo: [Oasis Infobyte Landing Page](https://oibsip-psi-two.vercel.app/)
 
@@ -27,7 +27,7 @@ The Oasis Infobyte Landing Page is a fully responsive and interactive webpage de
 
 
 
-## 2. Chatbot Portfolio
+## Task 2. Chatbot Portfolio
 
 ### 🌐 Live Demo: [Chatbot Portfolio](https://oibsip-ary8.vercel.app/)
 
@@ -47,7 +47,7 @@ The Chatbot Portfolio is an interactive and AI-powered chatbot designed to act a
 
 
 
-## 3. Temperature Converter
+## Task 3. Temperature Converter
 
 ### 🌐 Live Demo: [Temperature Converter](https://oibsip-xl1w.vercel.app/)
 
