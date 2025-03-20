@@ -1,6 +1,6 @@
 # My Projects
 
-# Level 1 
+# Level 1 Projects
 
 ## 1. Oasis Infobyte Landing Page
 
